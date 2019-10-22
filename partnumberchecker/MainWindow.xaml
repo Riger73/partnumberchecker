@@ -5,14 +5,24 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:partnumberchecker"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-            <StackPanel VerticalAlignment="Centre"
-                        Margin="10,0"> 
-                <Label/>
-                <TextBox/>
-                <TextBox/>
-                <Button/>
-            </StackPanel>
+        Title="MainWindow" Height="525" Width="350">
+    <Grid Margin="10">
+      <Grid.ColumnDefinition>
+        
+        </Grid.ColumnDefinition>
+        <Grid.RowDefinition>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinition>
+      <Label Content="0"
+          HorizontalAlignment="Right"
+          VerticalAlignment="Bottom"
+          FontSize="60"
+          Grid.ColumnSpan="4"/>
     </Grid>
 </Window>
