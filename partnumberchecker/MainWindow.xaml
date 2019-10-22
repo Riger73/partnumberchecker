@@ -1,4 +1,4 @@
-﻿<Window x:Class="pertnumberchecker.MainWindow"
+﻿<Window x:Class="partnumberchecker.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
@@ -7,10 +7,10 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="525" Width="350">
     <Grid Margin="10">
-      <Grid.ColumnDefinition>
+      <Grid.ColumnDefinitions>
         
-        </Grid.ColumnDefinition>
-        <Grid.RowDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
             <RowDefinition Height="*"/>
             <RowDefinition Height="*"/>
             <RowDefinition Height="*"/>
@@ -18,7 +18,7 @@
             <RowDefinition Height="*"/>
             <RowDefinition Height="*"/>
             <RowDefinition Height="*"/>
-        </Grid.RowDefinition>
+        </Grid.RowDefinitions>
       <Label Content="0"
           HorizontalAlignment="Right"
           VerticalAlignment="Bottom"

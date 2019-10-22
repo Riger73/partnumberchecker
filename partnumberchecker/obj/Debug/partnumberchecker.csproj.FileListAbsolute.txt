@@ -1,0 +1,15 @@
+C:\Users\timot\source\repos\partnumberchecker\partnumberchecker\bin\Debug\partnumberchecker.exe.config
+C:\Users\timot\source\repos\partnumberchecker\partnumberchecker\bin\Debug\partnumberchecker.exe
+C:\Users\timot\source\repos\partnumberchecker\partnumberchecker\bin\Debug\partnumberchecker.pdb
+C:\Users\timot\source\repos\partnumberchecker\partnumberchecker\obj\Debug\partnumberchecker.csprojAssemblyReference.cache
+C:\Users\timot\source\repos\partnumberchecker\partnumberchecker\obj\Debug\MainWindow.g.cs
+C:\Users\timot\source\repos\partnumberchecker\partnumberchecker\obj\Debug\App.g.cs
+C:\Users\timot\source\repos\partnumberchecker\partnumberchecker\obj\Debug\partnumberchecker_MarkupCompile.cache
+C:\Users\timot\source\repos\partnumberchecker\partnumberchecker\obj\Debug\partnumberchecker_MarkupCompile.lref
+C:\Users\timot\source\repos\partnumberchecker\partnumberchecker\obj\Debug\MainWindow.baml
+C:\Users\timot\source\repos\partnumberchecker\partnumberchecker\obj\Debug\partnumberchecker.g.resources
+C:\Users\timot\source\repos\partnumberchecker\partnumberchecker\obj\Debug\partnumberchecker.Properties.Resources.resources
+C:\Users\timot\source\repos\partnumberchecker\partnumberchecker\obj\Debug\partnumberchecker.csproj.GenerateResource.cache
+C:\Users\timot\source\repos\partnumberchecker\partnumberchecker\obj\Debug\partnumberchecker.csproj.CoreCompileInputs.cache
+C:\Users\timot\source\repos\partnumberchecker\partnumberchecker\obj\Debug\partnumberchecker.exe
+C:\Users\timot\source\repos\partnumberchecker\partnumberchecker\obj\Debug\partnumberchecker.pdb

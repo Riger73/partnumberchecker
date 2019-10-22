@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace pertnumberchecker.Properties
+namespace partnumberchecker.Properties
 {
 
 
